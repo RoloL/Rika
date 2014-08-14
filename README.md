@@ -1,0 +1,4 @@
+Rika
+====
+
+Ruby IRC Bot
